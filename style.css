@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* General-Styles */
+body{
+    overflow-x: hidden;
+    color: white;
+}
+a{
+    color: white;
+}
+/* Top-styles */
+#top{
+    font-size: 14px;
+    background-color: rgba(0, 0, 0, 0.808);
+    height: 3rem; 
+}
+.offer{
+    padding: 1% 10%;
+}
+#top a{
+    padding-right: 3%;
+    padding-left: 3%;
+}
+#top a:hover{
+    color: #0069D9;
+    text-decoration: none;
+}
+
+/* navbar-style */
+.bg{
+    background-color: rgb(0, 0, 0);
+}
+.navbar li:hover{
+    background-color: #0069D9;
+}
+.navbar li a{
+    color: white;
+}
+.fa-ellipsis-v{
+    color: white;
+}
+
+/* slider-style */
+#slider{
+    height: 30rem;
+    text-align: center;
+}
+/* card-style */
+#cards{
+    margin: 5% 5%;
+    color: #333;
+}
+
